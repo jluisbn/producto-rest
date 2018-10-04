@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class Connection {
 
-	private String userName = "root";
+	private String userName = "jbello";
 	private String password = "Ing.Bell0Nieves";
 	private String serverName = "localhost";
 	private String dataBase = "tienda";
