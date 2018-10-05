@@ -5,8 +5,7 @@
 
 	<groupId>com.gapsi.product</groupId>
 	<artifactId>products-rest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<version>0.0.1</version>
 
 	<name>products-rest</name>
 	<description>Demo project for Spring Boot</description>
@@ -80,4 +79,5 @@
 	</build>
 
 
+	<packaging>war</packaging>
 </project>
